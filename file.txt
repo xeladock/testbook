@@ -1,1 +1,2 @@
-this is first string!
+this is the first string!
+and this is the second!
