@@ -1,1 +1,1 @@
-this is third string!
+this is THE third string!
